@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itskutush
-- 👀 I’m interested in Unity Game Developement ,Python
+- 👀 I’m interested in Unity Game Developement ,Python and ML
 - 🌱 I’m currently learning Python
 
 
