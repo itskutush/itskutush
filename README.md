@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itskutush
 - 👀 I’m interested in AIML & iOS App Dev
-- 🌱 I’m currently learning Python
+
 
 
 <!---
